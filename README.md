@@ -28,7 +28,4 @@ Yo! I'm NISHCHAL👨‍💻<br>Tech enthusiast. Code ninja. Digital creator.<br>
 ### 🐍 Watch My Contributions Snake!
 
 
-#### SVG Version:
-![snake svg](https://github.com/Nishchal10213/Nishchal10213/blob/output/github-contribution-grid-snake.svg)
-
 
