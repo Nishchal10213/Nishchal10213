@@ -27,5 +27,9 @@ Yo! I'm NISHCHAL👨‍💻<br>Tech enthusiast. Code ninja. Digital creator.<br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🐍 Watch My Contributions Snake!
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
