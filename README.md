@@ -26,4 +26,4 @@ Yo! I'm NISHCHAL👨‍💻<br>Tech enthusiast. Code ninja. Digital creator.<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🐍 Watch My Contributions Snake!
-![snake gif](https://github.com/Nishchal10213/Nishchal10213/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Nishchal10213/Nishchal10213/blob/output/github-contribution-grid-snake.gif)
