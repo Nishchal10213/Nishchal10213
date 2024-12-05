@@ -5,7 +5,31 @@
 ###
 
 # About Me:
-Yo! I'm NISHCHAL👨‍💻<br>Tech enthusiast. Code ninja. Digital creator.<br>I’m all about turning wild ideas into cool tech. Currently diving into:<br><br>🕹️ Game Dev Mastery: Building immersive worlds with Unity & Unreal Engine<br>🌍 Game Environment Developer: Crafting stunning, interactive landscapes that tell stories<br>💻 Code Wizardry: Writing clean, powerful scripts in C# and C<br>🌐 Web Sorcery: Learning the art of web  <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ1dmIxdjdtZHFwcmFyaDZ6bDVlYmV3bDVhZ3d0eTV0Y3Z1Y2tlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1AJVCCTQysZr3FVXx/giphy.gif"/>development<br>🎨 3D & Design: Bringing ideas to life with Blender and Figma<p><br>🛠️ Current Build Mode:<br></p><br>Designing breathtaking game environments<br>Exploring cutting-edge tools & frameworks<br>Breaking stuff (and fixing it better)<br>🚀 Tech Motto: Code. Create. Conquer.<br><br>Let’s make tech legendary. 💾🔥
+<!-- START -->
+
+
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+         Hello 
+      <br>    
+        I'm NISHCHAL👨‍💻<br>Tech enthusiast. Code ninja. Digital creator.<br>I’m all about turning wild ideas into cool tech. Currently diving into:<br>
+      </b>
+      <br>
+         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=WEB+DEVELOPMENT+AND+UNREAL+ENGINE.">
+      <br>
+      <b>
+         ~ Nishchal Acharya ~
+      </b>    </samp>
+        
+
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
+<br>🕹️ Game Dev Mastery: Building immersive worlds with Unity & Unreal Engine<br>🌍 Game Environment Developer: Crafting stunning, interactive landscapes that tell stories<br>💻 Code Wizardry: Writing clean, powerful scripts in C# and C<br>🌐 Web Sorcery: Learning the art of web  <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ1dmIxdjdtZHFwcmFyaDZ6bDVlYmV3bDVhZ3d0eTV0Y3Z1Y2tlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1AJVCCTQysZr3FVXx/giphy.gif"/>development<br>🎨 3D & Design: Bringing ideas to life with Blender and Figma<p><br>🛠️ Current Build Mode:<br></p><br>Designing breathtaking game environments<br>Exploring cutting-edge tools & frameworks<br>Breaking stuff (and fixing it better)<br>🚀 Tech Motto: Code. Create. Conquer.<br><br>Let’s make tech legendary. 💾🔥
 
 
 
