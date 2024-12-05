@@ -6,14 +6,17 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # Ensure GITHUB_TOKEN has write access
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Explicitly specify the Ubuntu version
 
     steps:
       # Step 1: Check out the repository
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Step 2: Generate the snake GIF and SVG
       - name: Generate Snake GIF and SVG
