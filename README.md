@@ -19,7 +19,7 @@
         I'm NISHCHAL👨‍💻<br>Tech enthusiast. Code ninja. Digital creator.<br>I’m all about turning wild ideas into cool tech. Currently diving into:<br>
       </b>
       <br>
-         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=WEB+DEVELOPMENT+AND+UNREAL+ENGINE.">
+         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=GAMEDEVELOPMENT+AND+UNITY+AND+UNREALENGINE.">
       <br>
       <b>
          ~ Nishchal Acharya ~
