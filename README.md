@@ -84,10 +84,10 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nishchal10213/count.svg?"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0c2Nxbnk3bG91NmFudTFmZzJocWJmaG5maDZ5amRkaXliOHB4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif"  />
 </div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
